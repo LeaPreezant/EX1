@@ -128,7 +128,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="funcStack.cpp" />
+    <ClCompile Include="LinkedList .cpp" />
     <ClCompile Include="Part2Tester.cpp" />
+    <ClCompile Include="Utils.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LinkedList.h" />

@@ -21,6 +21,12 @@
     <ClCompile Include="Part2Tester.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LinkedList .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Stack.h">

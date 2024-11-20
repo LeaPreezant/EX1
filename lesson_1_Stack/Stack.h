@@ -1,12 +1,13 @@
 #ifndef STACK_H
 #define STACK_H
-
 #include "LinkedList.h"
+
 
 /* a positive-integer value stack, with no size limit */
 typedef struct Stack
 {
-	// Complete Definition here
+	linkedList* _elments;
+	int _count;
 } Stack;
 
 void push(Stack* s, unsigned int element);
